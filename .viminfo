@@ -1,0 +1,297 @@
+# この viminfo ファイルは Vim 8.0 によって生成されました.
+# 変更する際には十分注意してください!
+
+# Viminfo version
+|1,4
+
+# このファイルが書かれた時の 'encoding' の値
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# コマンドライン 項目の履歴 (新しいものから古いものへ):
+:q
+|2,0,1580037141,,"q"
+:wq
+|2,0,1579433912,,"wq"
+:q!
+|2,0,1579433323,,"q!"
+:w
+|2,0,1579427844,,"w"
+
+# 検索文字列 項目の履歴 (新しいものから古いものへ):
+
+# 式 項目の履歴 (新しいものから古いものへ):
+
+# 入力行 項目の履歴 (新しいものから古いものへ):
+
+# デバッグ行 項目の履歴 (新しいものから古いものへ):
+
+# レジスタ:
+""-	CHAR	0
+	i
+|3,1,36,0,1,0,1579428346,"i"
+
+# ファイルマーク:
+'0  1  0  /etc/apt/apt.conf.d/proxy.conf
+|4,48,1,0,1580037141,"/etc/apt/apt.conf.d/proxy.conf"
+'1  5  0  /etc/hosts
+|4,49,5,0,1580036727,"/etc/hosts"
+'2  5  0  /etc/hosts
+|4,50,5,0,1580036560,"/etc/hosts"
+'3  6  127  ~/workspace/bot/niconico-ranking.sh
+|4,51,6,127,1579433912,"~/workspace/bot/niconico-ranking.sh"
+'4  23  57  /tmp/crontab.64qAYw/crontab
+|4,52,23,57,1579433877,"/tmp/crontab.64qAYw/crontab"
+'5  4  51  ~/workspace/bot/niconico-ranking.sh
+|4,53,4,51,1579433323,"~/workspace/bot/niconico-ranking.sh"
+'6  4  51  ~/workspace/bot/niconico-ranking.sh
+|4,54,4,51,1579433323,"~/workspace/bot/niconico-ranking.sh"
+'7  6  45  ~/workspace/my-first-shell/my-first.sh
+|4,55,6,45,1579428356,"~/workspace/my-first-shell/my-first.sh"
+'8  5  11  ~/workspace/my-first-shell/my-first.sh
+|4,56,5,11,1579428291,"~/workspace/my-first-shell/my-first.sh"
+'9  5  11  ~/workspace/my-first-shell/my-first.sh
+|4,57,5,11,1579428291,"~/workspace/my-first-shell/my-first.sh"
+
+# ジャンプリスト (新しいものが先):
+-'  1  0  /etc/apt/apt.conf.d/proxy.conf
+|4,39,1,0,1580037141,"/etc/apt/apt.conf.d/proxy.conf"
+-'  5  0  /etc/hosts
+|4,39,5,0,1580036727,"/etc/hosts"
+-'  5  0  /etc/hosts
+|4,39,5,0,1580036727,"/etc/hosts"
+-'  5  0  /etc/hosts
+|4,39,5,0,1580036560,"/etc/hosts"
+-'  5  0  /etc/hosts
+|4,39,5,0,1580036560,"/etc/hosts"
+-'  1  0  /etc/hosts
+|4,39,1,0,1580036550,"/etc/hosts"
+-'  1  0  /etc/hosts
+|4,39,1,0,1580036550,"/etc/hosts"
+-'  1  0  /etc/hosts
+|4,39,1,0,1580036550,"/etc/hosts"
+-'  1  0  /etc/hosts
+|4,39,1,0,1580036550,"/etc/hosts"
+-'  6  127  ~/workspace/bot/niconico-ranking.sh
+|4,39,6,127,1579433912,"~/workspace/bot/niconico-ranking.sh"
+-'  6  127  ~/workspace/bot/niconico-ranking.sh
+|4,39,6,127,1579433912,"~/workspace/bot/niconico-ranking.sh"
+-'  6  127  ~/workspace/bot/niconico-ranking.sh
+|4,39,6,127,1579433912,"~/workspace/bot/niconico-ranking.sh"
+-'  6  127  ~/workspace/bot/niconico-ranking.sh
+|4,39,6,127,1579433912,"~/workspace/bot/niconico-ranking.sh"
+-'  6  127  ~/workspace/bot/niconico-ranking.sh
+|4,39,6,127,1579433912,"~/workspace/bot/niconico-ranking.sh"
+-'  6  127  ~/workspace/bot/niconico-ranking.sh
+|4,39,6,127,1579433912,"~/workspace/bot/niconico-ranking.sh"
+-'  6  127  ~/workspace/bot/niconico-ranking.sh
+|4,39,6,127,1579433912,"~/workspace/bot/niconico-ranking.sh"
+-'  6  127  ~/workspace/bot/niconico-ranking.sh
+|4,39,6,127,1579433912,"~/workspace/bot/niconico-ranking.sh"
+-'  4  51  ~/workspace/bot/niconico-ranking.sh
+|4,39,4,51,1579433887,"~/workspace/bot/niconico-ranking.sh"
+-'  4  51  ~/workspace/bot/niconico-ranking.sh
+|4,39,4,51,1579433887,"~/workspace/bot/niconico-ranking.sh"
+-'  4  51  ~/workspace/bot/niconico-ranking.sh
+|4,39,4,51,1579433887,"~/workspace/bot/niconico-ranking.sh"
+-'  4  51  ~/workspace/bot/niconico-ranking.sh
+|4,39,4,51,1579433887,"~/workspace/bot/niconico-ranking.sh"
+-'  4  51  ~/workspace/bot/niconico-ranking.sh
+|4,39,4,51,1579433887,"~/workspace/bot/niconico-ranking.sh"
+-'  4  51  ~/workspace/bot/niconico-ranking.sh
+|4,39,4,51,1579433887,"~/workspace/bot/niconico-ranking.sh"
+-'  4  51  ~/workspace/bot/niconico-ranking.sh
+|4,39,4,51,1579433887,"~/workspace/bot/niconico-ranking.sh"
+-'  4  51  ~/workspace/bot/niconico-ranking.sh
+|4,39,4,51,1579433887,"~/workspace/bot/niconico-ranking.sh"
+-'  23  57  /tmp/crontab.64qAYw/crontab
+|4,39,23,57,1579433877,"/tmp/crontab.64qAYw/crontab"
+-'  23  57  /tmp/crontab.64qAYw/crontab
+|4,39,23,57,1579433877,"/tmp/crontab.64qAYw/crontab"
+-'  23  57  /tmp/crontab.64qAYw/crontab
+|4,39,23,57,1579433877,"/tmp/crontab.64qAYw/crontab"
+-'  23  57  /tmp/crontab.64qAYw/crontab
+|4,39,23,57,1579433877,"/tmp/crontab.64qAYw/crontab"
+-'  23  57  /tmp/crontab.64qAYw/crontab
+|4,39,23,57,1579433877,"/tmp/crontab.64qAYw/crontab"
+-'  23  57  /tmp/crontab.64qAYw/crontab
+|4,39,23,57,1579433877,"/tmp/crontab.64qAYw/crontab"
+-'  23  57  /tmp/crontab.64qAYw/crontab
+|4,39,23,57,1579433877,"/tmp/crontab.64qAYw/crontab"
+-'  23  57  /tmp/crontab.64qAYw/crontab
+|4,39,23,57,1579433877,"/tmp/crontab.64qAYw/crontab"
+-'  23  57  /tmp/crontab.64qAYw/crontab
+|4,39,23,57,1579433877,"/tmp/crontab.64qAYw/crontab"
+-'  23  57  /tmp/crontab.64qAYw/crontab
+|4,39,23,57,1579433877,"/tmp/crontab.64qAYw/crontab"
+-'  23  57  /tmp/crontab.64qAYw/crontab
+|4,39,23,57,1579433877,"/tmp/crontab.64qAYw/crontab"
+-'  23  57  /tmp/crontab.64qAYw/crontab
+|4,39,23,57,1579433877,"/tmp/crontab.64qAYw/crontab"
+-'  23  57  /tmp/crontab.64qAYw/crontab
+|4,39,23,57,1579433877,"/tmp/crontab.64qAYw/crontab"
+-'  23  57  /tmp/crontab.64qAYw/crontab
+|4,39,23,57,1579433877,"/tmp/crontab.64qAYw/crontab"
+-'  23  57  /tmp/crontab.64qAYw/crontab
+|4,39,23,57,1579433877,"/tmp/crontab.64qAYw/crontab"
+-'  23  57  /tmp/crontab.64qAYw/crontab
+|4,39,23,57,1579433877,"/tmp/crontab.64qAYw/crontab"
+-'  1  0  /tmp/crontab.64qAYw/crontab
+|4,39,1,0,1579433749,"/tmp/crontab.64qAYw/crontab"
+-'  1  0  /tmp/crontab.64qAYw/crontab
+|4,39,1,0,1579433749,"/tmp/crontab.64qAYw/crontab"
+-'  1  0  /tmp/crontab.64qAYw/crontab
+|4,39,1,0,1579433749,"/tmp/crontab.64qAYw/crontab"
+-'  1  0  /tmp/crontab.64qAYw/crontab
+|4,39,1,0,1579433749,"/tmp/crontab.64qAYw/crontab"
+-'  1  0  /tmp/crontab.64qAYw/crontab
+|4,39,1,0,1579433749,"/tmp/crontab.64qAYw/crontab"
+-'  1  0  /tmp/crontab.64qAYw/crontab
+|4,39,1,0,1579433749,"/tmp/crontab.64qAYw/crontab"
+-'  1  0  /tmp/crontab.64qAYw/crontab
+|4,39,1,0,1579433749,"/tmp/crontab.64qAYw/crontab"
+-'  1  0  /tmp/crontab.64qAYw/crontab
+|4,39,1,0,1579433749,"/tmp/crontab.64qAYw/crontab"
+-'  1  0  /tmp/crontab.64qAYw/crontab
+|4,39,1,0,1579433749,"/tmp/crontab.64qAYw/crontab"
+-'  1  0  /tmp/crontab.64qAYw/crontab
+|4,39,1,0,1579433749,"/tmp/crontab.64qAYw/crontab"
+-'  1  0  /tmp/crontab.64qAYw/crontab
+|4,39,1,0,1579433749,"/tmp/crontab.64qAYw/crontab"
+-'  1  0  /tmp/crontab.64qAYw/crontab
+|4,39,1,0,1579433749,"/tmp/crontab.64qAYw/crontab"
+-'  1  0  /tmp/crontab.64qAYw/crontab
+|4,39,1,0,1579433749,"/tmp/crontab.64qAYw/crontab"
+-'  1  0  /tmp/crontab.64qAYw/crontab
+|4,39,1,0,1579433749,"/tmp/crontab.64qAYw/crontab"
+-'  1  0  /tmp/crontab.64qAYw/crontab
+|4,39,1,0,1579433749,"/tmp/crontab.64qAYw/crontab"
+-'  1  0  /tmp/crontab.64qAYw/crontab
+|4,39,1,0,1579433749,"/tmp/crontab.64qAYw/crontab"
+-'  4  51  ~/workspace/bot/niconico-ranking.sh
+|4,39,4,51,1579433323,"~/workspace/bot/niconico-ranking.sh"
+-'  4  51  ~/workspace/bot/niconico-ranking.sh
+|4,39,4,51,1579433323,"~/workspace/bot/niconico-ranking.sh"
+-'  4  51  ~/workspace/bot/niconico-ranking.sh
+|4,39,4,51,1579433323,"~/workspace/bot/niconico-ranking.sh"
+-'  4  51  ~/workspace/bot/niconico-ranking.sh
+|4,39,4,51,1579433323,"~/workspace/bot/niconico-ranking.sh"
+-'  4  51  ~/workspace/bot/niconico-ranking.sh
+|4,39,4,51,1579433323,"~/workspace/bot/niconico-ranking.sh"
+-'  4  51  ~/workspace/bot/niconico-ranking.sh
+|4,39,4,51,1579433323,"~/workspace/bot/niconico-ranking.sh"
+-'  4  51  ~/workspace/bot/niconico-ranking.sh
+|4,39,4,51,1579433323,"~/workspace/bot/niconico-ranking.sh"
+-'  4  51  ~/workspace/bot/niconico-ranking.sh
+|4,39,4,51,1579433323,"~/workspace/bot/niconico-ranking.sh"
+-'  4  51  ~/workspace/bot/niconico-ranking.sh
+|4,39,4,51,1579433323,"~/workspace/bot/niconico-ranking.sh"
+-'  4  51  ~/workspace/bot/niconico-ranking.sh
+|4,39,4,51,1579433323,"~/workspace/bot/niconico-ranking.sh"
+-'  4  51  ~/workspace/bot/niconico-ranking.sh
+|4,39,4,51,1579433323,"~/workspace/bot/niconico-ranking.sh"
+-'  4  51  ~/workspace/bot/niconico-ranking.sh
+|4,39,4,51,1579433323,"~/workspace/bot/niconico-ranking.sh"
+-'  4  51  ~/workspace/bot/niconico-ranking.sh
+|4,39,4,51,1579433323,"~/workspace/bot/niconico-ranking.sh"
+-'  4  51  ~/workspace/bot/niconico-ranking.sh
+|4,39,4,51,1579433323,"~/workspace/bot/niconico-ranking.sh"
+-'  4  51  ~/workspace/bot/niconico-ranking.sh
+|4,39,4,51,1579433323,"~/workspace/bot/niconico-ranking.sh"
+-'  4  51  ~/workspace/bot/niconico-ranking.sh
+|4,39,4,51,1579433323,"~/workspace/bot/niconico-ranking.sh"
+-'  1  0  ~/workspace/bot/niconico-ranking.sh
+|4,39,1,0,1579433307,"~/workspace/bot/niconico-ranking.sh"
+-'  1  0  ~/workspace/bot/niconico-ranking.sh
+|4,39,1,0,1579433307,"~/workspace/bot/niconico-ranking.sh"
+-'  1  0  ~/workspace/bot/niconico-ranking.sh
+|4,39,1,0,1579433307,"~/workspace/bot/niconico-ranking.sh"
+-'  1  0  ~/workspace/bot/niconico-ranking.sh
+|4,39,1,0,1579433307,"~/workspace/bot/niconico-ranking.sh"
+-'  1  0  ~/workspace/bot/niconico-ranking.sh
+|4,39,1,0,1579433307,"~/workspace/bot/niconico-ranking.sh"
+-'  1  0  ~/workspace/bot/niconico-ranking.sh
+|4,39,1,0,1579433307,"~/workspace/bot/niconico-ranking.sh"
+-'  1  0  ~/workspace/bot/niconico-ranking.sh
+|4,39,1,0,1579433307,"~/workspace/bot/niconico-ranking.sh"
+-'  1  0  ~/workspace/bot/niconico-ranking.sh
+|4,39,1,0,1579433307,"~/workspace/bot/niconico-ranking.sh"
+-'  1  0  ~/workspace/bot/niconico-ranking.sh
+|4,39,1,0,1579433307,"~/workspace/bot/niconico-ranking.sh"
+-'  1  0  ~/workspace/bot/niconico-ranking.sh
+|4,39,1,0,1579433307,"~/workspace/bot/niconico-ranking.sh"
+-'  1  0  ~/workspace/bot/niconico-ranking.sh
+|4,39,1,0,1579433307,"~/workspace/bot/niconico-ranking.sh"
+-'  1  0  ~/workspace/bot/niconico-ranking.sh
+|4,39,1,0,1579433307,"~/workspace/bot/niconico-ranking.sh"
+-'  1  0  ~/workspace/bot/niconico-ranking.sh
+|4,39,1,0,1579433307,"~/workspace/bot/niconico-ranking.sh"
+-'  1  0  ~/workspace/bot/niconico-ranking.sh
+|4,39,1,0,1579433307,"~/workspace/bot/niconico-ranking.sh"
+-'  1  0  ~/workspace/bot/niconico-ranking.sh
+|4,39,1,0,1579433307,"~/workspace/bot/niconico-ranking.sh"
+-'  1  0  ~/workspace/bot/niconico-ranking.sh
+|4,39,1,0,1579433307,"~/workspace/bot/niconico-ranking.sh"
+-'  1  0  ~/workspace/bot/niconico-ranking.sh
+|4,39,1,0,1579433307,"~/workspace/bot/niconico-ranking.sh"
+-'  1  0  ~/workspace/bot/niconico-ranking.sh
+|4,39,1,0,1579433307,"~/workspace/bot/niconico-ranking.sh"
+-'  1  0  ~/workspace/bot/niconico-ranking.sh
+|4,39,1,0,1579433307,"~/workspace/bot/niconico-ranking.sh"
+-'  1  0  ~/workspace/bot/niconico-ranking.sh
+|4,39,1,0,1579433307,"~/workspace/bot/niconico-ranking.sh"
+-'  1  0  ~/workspace/bot/niconico-ranking.sh
+|4,39,1,0,1579433307,"~/workspace/bot/niconico-ranking.sh"
+-'  1  0  ~/workspace/bot/niconico-ranking.sh
+|4,39,1,0,1579433307,"~/workspace/bot/niconico-ranking.sh"
+-'  1  0  ~/workspace/bot/niconico-ranking.sh
+|4,39,1,0,1579433307,"~/workspace/bot/niconico-ranking.sh"
+-'  1  0  ~/workspace/bot/niconico-ranking.sh
+|4,39,1,0,1579433307,"~/workspace/bot/niconico-ranking.sh"
+-'  6  45  ~/workspace/my-first-shell/my-first.sh
+|4,39,6,45,1579428356,"~/workspace/my-first-shell/my-first.sh"
+-'  6  45  ~/workspace/my-first-shell/my-first.sh
+|4,39,6,45,1579428356,"~/workspace/my-first-shell/my-first.sh"
+-'  6  45  ~/workspace/my-first-shell/my-first.sh
+|4,39,6,45,1579428356,"~/workspace/my-first-shell/my-first.sh"
+
+# ファイル内マークの履歴 (新しいものから古いもの):
+
+> /etc/apt/apt.conf.d/proxy.conf
+	*	1580037137	0
+	"	1	0
+
+> /etc/hosts
+	*	1580036663	0
+	"	5	0
+
+> ~/workspace/bot/niconico-ranking.sh
+	*	1579433909	0
+	"	6	127
+
+> /tmp/crontab.64qAYw/crontab
+	*	1579433875	0
+	"	23	57
+	^	23	58
+	.	23	57
+	+	23	57
+
+> ~/workspace/my-first-shell/my-first.sh
+	*	1579428354	0
+	"	6	45
+	^	6	46
+	.	6	45
+	+	3	4
+	+	4	48
+	+	5	12
+	+	6	45
+
+> ~/workspace/vim-study/test.txt
+	*	1579427850	0
+	"	1	0
+
+> ~/.profile
+	*	1579427766	0
+	"	28	0
